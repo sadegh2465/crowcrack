@@ -1,3 +1,4 @@
+print "Enter password : "
 password = gets.chomp.to_i
 
 for i in 0.. do
